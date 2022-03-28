@@ -8,7 +8,7 @@ export const FavoritesAnime = () => {
 
     return (
         <div className="favorite_wrapper">
-            <h3> Your list of favorite anime </h3>
+            <h3> Tu lista Favorita </h3>
             <div className="container_card"
                     style={{marginTop:"20px"}}>
                 {
